@@ -32,14 +32,9 @@ h1 {
     color: #d8d8d8;
   }
 
-/* background color */
-/* * {
-    background-color: lightblue;
-} */
-
 body {
     font-family: "Montserrat", sans-serif;
-    /* background-color: lightblue; */
+    background-color: lightblue;
 }
 
 /* logo */
@@ -80,50 +75,6 @@ body {
     background-color: #0000ff;
     color: white;
 }
-
-/* contact us */
-
-/* #icon {
-    width: 20px;
-    height: 20px;
-}
-
-#contactus,
-#contactus h1,
-#contactus p,
-#contactus ul,
-#contactus li {
-    background-color: blue;
-    color: white;
-    list-style: none;
-    text-align: center;
-}
-
-#contactus {
-    padding-bottom: 20px;
-    padding-top: 20px;
-}
-
-#contactus a {
-    color: white;
-    text-decoration: none;
-}
-
-#contactus p {
-    display: inline;
-    letter-spacing: 1px;
-    line-height: 2px;
-    margin-left: 10px;
-}
-
-
-footer p {
-    text-align: center;
-    font-size: 10px;
-    background-color: blueviolet;
-    color: white;
-} */
-
 
 /* nav bar */
 .navbar{
