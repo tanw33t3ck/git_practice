@@ -1,0 +1,182 @@
+/* import google fonts Montserrat */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+/* heading style */
+h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+  
+  h2 {
+    font-size: 1.8rem;
+    font-weight: 600;
+  }
+  
+  h3 {
+    font-size: 1.4rem;
+    font-weight: 800;
+  }
+  
+  h4 {
+    font-size: 1.1rem;
+    font-weight: 600;
+  }
+  
+  h5 {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #1d1d1d;
+  }
+  
+  h6 {
+    color: #d8d8d8;
+  }
+
+/* background color */
+/* * {
+    background-color: lightblue;
+} */
+
+body {
+    font-family: "Montserrat", sans-serif;
+    /* background-color: lightblue; */
+}
+
+/* logo */
+#logo {
+    width: 65px;
+    height: 65px;
+    border-radius: 100%;
+}
+
+
+/* company image */
+
+.coimage {
+    width: 500px;
+    height: 400px;
+}
+
+/* company description */
+
+#history {
+    margin-top: 150px;
+}
+
+#ourteam {
+    margin-top: 30px;
+    text-align: center;
+}
+
+/* shop now button */
+
+#shopnowbutton {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #0000ff;
+}
+
+#shopnowbutton a {
+    background-color: #0000ff;
+    color: white;
+}
+
+/* contact us */
+
+/* #icon {
+    width: 20px;
+    height: 20px;
+}
+
+#contactus,
+#contactus h1,
+#contactus p,
+#contactus ul,
+#contactus li {
+    background-color: blue;
+    color: white;
+    list-style: none;
+    text-align: center;
+}
+
+#contactus {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+#contactus a {
+    color: white;
+    text-decoration: none;
+}
+
+#contactus p {
+    display: inline;
+    letter-spacing: 1px;
+    line-height: 2px;
+    margin-left: 10px;
+}
+
+
+footer p {
+    text-align: center;
+    font-size: 10px;
+    background-color: blueviolet;
+    color: white;
+} */
+
+
+/* nav bar */
+.navbar{
+    font-size: 16px;
+    font-weight: bold;
+    position: ;
+  }
+  
+  .navbar-light .navbar-nav .nav-link {
+    padding: 0 25px;
+    color: darkslategray;
+    transition: 0.5s ease;
+  }
+  
+  .navbar-light .navbar-nav .nav-link:hover,
+  .navbar-light .navbar-nav .nav-link.active{
+    color: blue;
+  }
+
+footer{
+  background-color:#3d5a80 !important;
+}
+
+footer h5{
+  color: #d8d8d8;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+footer li{
+  padding-bottom: 4px;
+}
+
+footer li a{
+  font-size: 0.8rem;
+  color:#999;
+}
+
+footer li a:hover{
+  color:blue;
+}
+
+footer p{
+  color:#999;
+  font-size: 0.8rem;
+}
+
+footer p a{
+  color:#999;
+  font-size: 0.8rem;
+}
+
+footer p a:hover{
+  color:blue;
+
+}
